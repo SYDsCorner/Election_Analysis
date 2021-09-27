@@ -36,14 +36,14 @@ The analysis of the election show that:
 	
 ## Results: 
 
-**1. The total votes were cast in this congressional election**
+**1. How many votes were cast in this congressional election?**
 	
    > There were 369,711 total votes in this congressional election.
 
 ![1 Total_votes](https://user-images.githubusercontent.com/89308251/132901288-b0ce60ce-50d5-4f6e-99d1-f69152411ac2.png)
 
 
-**2. The breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
+**2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 	
    - County Votes:
       - Jefferson: 10.5% (38,855)
@@ -53,14 +53,14 @@ The analysis of the election show that:
 ![2 County_votes](https://user-images.githubusercontent.com/89308251/132901378-e16d43b1-8d2b-4c0c-8783-2054613a777c.png)
 
 
-**3. The county with the largest number of votes**
+**3. Which county had the largest number of votes?**
 	
    > The largest number of votes is Denver county.
 
 ![3 Largest_county](https://user-images.githubusercontent.com/89308251/132901495-bc829376-ba47-4cc2-8cf3-241b4e62d53e.png)
 
 
-**4. The breakdown of the number of votes and the percentage of the total votes each candidate received.**
+**4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 	
    - The total votes of each candidate:
       - Charles Casper Stockham: 23.0% (85,213)
@@ -70,7 +70,7 @@ The analysis of the election show that:
 ![4 Total_votes_each_candidate](https://user-images.githubusercontent.com/89308251/132901515-0d8b1dcf-5017-4ac8-b430-292b4f08f0c8.png)
 
 
-**5.  The candidate won the election**
+**5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 	
    > The winner is Diana DeGette. She got 272,892 out of 369,711 votes or 73.8% of the total votes.
  
