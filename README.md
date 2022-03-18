@@ -1,5 +1,7 @@
 # Election_Analysis
 
+![Voting-Guide](https://user-images.githubusercontent.com/89308251/158933934-a489d1c3-1bc7-4711-b0a2-2de85a638852.png)
+
 ## Project Overview
 A Colorado Board of Elections employee has given you that following tasks to complete the election audit of a recent local congressional election.
 
